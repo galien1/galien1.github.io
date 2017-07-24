@@ -4,10 +4,3 @@ h2 {
 p {
     text-align:center;
 }
-border1 {
-    background-color: lightgrey;
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-}
