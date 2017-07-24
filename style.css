@@ -5,9 +5,7 @@
     p {
       text-align:center;
     }
-
-    div {
-      height: 100px;  
-      width: 100px; 
-      border: 2px solid purple;
-    }
+p {
+    border-left: 6px solid red;
+    background-color: lightgrey;
+}
