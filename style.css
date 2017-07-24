@@ -1,11 +1,13 @@
-    h2 {
-      font-family: arial;
-    }
-
-    p {
-      text-align:center;
-    }
-    border {
-    border-left: 6px solid red;
+h2 {
+    font-family: arial;
+}
+p {
+    text-align:center;
+}
+div {
     background-color: lightgrey;
-    }
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
